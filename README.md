@@ -1,4 +1,4 @@
-# Voting-DAAP using React.js, Hardhat, MetaMask, and Solidity
+# Voting-DApp using React.js, Hardhat, MetaMask, and Solidity
 
 ## Introduction
 
