@@ -2,12 +2,12 @@
 
 ## Introduction
 
-This repository hosts a decentralized application (DApp) developed using React.js, Hardhat, MetaMask, and Solidity. The DApp aims to [perform online and secured voting system].
+This repository hosts a decentralized application (DApp) developed using React.js, Hardhat, MetaMask, and Solidity. The DApp aims to perform online and secured voting system.
 
 ## Features
 
-- [User can create an account]
-- [Diferent Id can vite different person. Once a id voted can't perform voting 2nd time.]
+- User can create an account
+- Diferent Id can vite different person. Once a id voted can't perform voting 2nd time.
 
 ## Technologies Used
 
